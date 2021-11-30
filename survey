@@ -12,6 +12,8 @@ global img
 
 tello.streamon()
 
+
+
 def getKeyboardImput():
     lr, fb, ud, yv = 0, 0, 0, 0
     speed = 50
